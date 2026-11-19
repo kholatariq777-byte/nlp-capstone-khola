@@ -1,4 +1,4 @@
-# nlp-capstone-<team>  (solo: <your name>)
+# nlp-capstone-<team>  (solo: Khola Tariq)
 
 ## Problem and users
 Job seekers in data-related fields who want to know which skills match a role. Users type a job or skills in plain language and see matching postings and the skills employers ask for most.
@@ -27,8 +27,8 @@ Job seekers in data-related fields who want to know which skills match a role. U
 Then open the local link printed in the terminal.
 
 ## Who did what
-- [Your name]: all parts (data, pipeline, evaluation, app, presentation).
-- AI assistant (Claude) used for drafting code and slides; every part was reviewed and can be explained by the author.
+- Khola Tariq: all parts (data, pipeline, evaluation, app, presentation).
+- AI assistant (Claude) used for finding errors in code and slides; every part was reviewed and can be explained by the author.
 
 ## Next steps
 Sentence embeddings for semantic search; compare against TF-IDF; publish on Hugging Face Spaces.
