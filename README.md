@@ -1,4 +1,4 @@
-# nlp-capstone-<team>  (solo: Khola Tariq)
+# nlp-capstone-khola (solo: Khola Tariq)
 
 ## Problem and users
 Job seekers in data-related fields who want to know which skills match a role. Users type a job or skills in plain language and see matching postings and the skills employers ask for most.
@@ -15,6 +15,9 @@ Job seekers in data-related fields who want to know which skills match a role. U
 4. Cosine similarity for search; top 10 results.
 5. Count skills across matched jobs to show skills in demand.
 6. Evaluation: 80/20 held-out split; precision@10 on 200 test queries, compared with a random baseline.
+   
+## Presentation
+[Slides (PowerPoint)]: https://app.brightdeck.ai/presentations/01a1f3fe-23da-7740-882e-d4d866adcede?utm_source=share_link&utm_medium=product&utm_content=01a1f3fe-23da-7740-882e-d4d866adcede
 
 ## Results
 - Precision@10, TF-IDF: 0.702
@@ -25,6 +28,7 @@ Job seekers in data-related fields who want to know which skills match a role. U
     pip install datasets pandas scikit-learn gradio
     python app.py
 Then open the local link printed in the terminal.
+Live demo (works while the app is running):(https://8aed435e72169f59ab.gradio.live)
 
 ## Who did what
 - Khola Tariq: all parts (data, pipeline, evaluation, app, presentation).
