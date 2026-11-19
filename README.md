@@ -17,7 +17,7 @@ Job seekers in data-related fields who want to know which skills match a role. U
 6. Evaluation: 80/20 held-out split; precision@10 on 200 test queries, compared with a random baseline.
    
 ## Presentation
-[Slides (PowerPoint)]: https://app.brightdeck.ai/presentations/01a1f3fe-23da-7740-882e-d4d866adcede?utm_source=share_link&utm_medium=product&utm_content=01a1f3fe-23da-7740-882e-d4d866adcede
+PowerPoint: https://app.brightdeck.ai/presentations/01a1f3fe-23da-7740-882e-d4d866adcede?utm_source=share_link&utm_medium=product&utm_content=01a1f3fe-23da-7740-882e-d4d866adcede
 
 ## Results
 - Precision@10, TF-IDF: 0.702
